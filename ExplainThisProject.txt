@@ -1,0 +1,12 @@
+
+1- model.create(req.body) ==>> To send data to DB
+2- model.find() ==>> to get all data from DB
+3- model.findById: ==>> to get one element Just one Element
+4- model.findByIdAndDelete: to delete Element
+5- model.deleteOne(_id: req.params.id)  seconde way to delete  Element
+
+
+
+
+
+

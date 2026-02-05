@@ -1,0 +1,8 @@
+{
+username: "",
+
+email: "hhhhhhh",
+password: 12255555
+
+
+}
